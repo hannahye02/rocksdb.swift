@@ -308,5 +308,5 @@ let package = Package(
             name: "RocksDBTests",
             dependencies: ["RocksDB"]),
     ],
-    cxxLanguageStandard: .cxx11
+    cxxLanguageStandard: .cxx17
 )
